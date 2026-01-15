@@ -35,3 +35,8 @@ It has a clean UI and fast loading performance.
 - READ_MEDIA_IMAGES (Android 13+)
 
 ---
+## 📸 Screenshots
+
+*(Add your screenshots in screenshots folder and update here)*
+
+---
