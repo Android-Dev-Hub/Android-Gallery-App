@@ -48,3 +48,12 @@ It has a clean UI and fast loading performance.
 - Dark mode
 
 ---
+## 👨‍💻 Developer
+
+**Ishan Walia**  
+B.Tech CSE Student  
+Lovely Professional University  
+
+GitHub: https://github.com/ishan-walia
+
+---
