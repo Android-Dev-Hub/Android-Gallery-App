@@ -57,3 +57,6 @@ Lovely Professional University
 GitHub: https://github.com/ishan-walia
 
 ---
+## ⚠ Disclaimer
+
+This app is made for **learning and educational purposes only**.
