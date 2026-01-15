@@ -9,3 +9,13 @@
 It has a clean UI and fast loading performance.
 
 ---
+## ✨ Features
+
+- View all images and videos
+- Folder wise photo browsing
+- Full screen image preview
+- Smooth zoom in / zoom out
+- Fast loading
+- Simple & clean UI
+
+---
