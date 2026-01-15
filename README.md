@@ -40,3 +40,11 @@ It has a clean UI and fast loading performance.
 *(Add your screenshots in screenshots folder and update here)*
 
 ---
+## 🚀 Future Updates
+
+- Delete photos/videos
+- Share option
+- Favorite photos
+- Dark mode
+
+---
