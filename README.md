@@ -28,4 +28,10 @@ It has a clean UI and fast loading performance.
 - Media: MediaStore API
 
 ---
+## 📦 App Permissions
 
+- READ_EXTERNAL_STORAGE  
+- WRITE_EXTERNAL_STORAGE  
+- READ_MEDIA_IMAGES (Android 13+)
+
+---
