@@ -19,3 +19,13 @@ It has a clean UI and fast loading performance.
 - Simple & clean UI
 
 ---
+
+## 🛠 Tech Stack
+
+- Language: Kotlin
+- IDE: Android Studio
+- UI: XML Layouts
+- Media: MediaStore API
+
+---
+
